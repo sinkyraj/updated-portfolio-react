@@ -2,7 +2,7 @@
   "name": "updated-portfolio-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://sinkyraj.github.io/updated-portfolio-react",
+  "homepage": "http://sinkyraj.github.io/updated-portfolio-react/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
